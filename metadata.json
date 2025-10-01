@@ -1,0 +1,5 @@
+{
+  "name": "Lịch Mổ Bệnh Viện",
+  "description": "Ứng dụng lập lịch phòng mổ thông minh với khả năng phát hiện xung đột theo thời gian thực, phân bổ ca mổ bằng thao tác kéo-thả, và cung cấp các chế độ xem linh hoạt cho điều phối viên và các khoa trong bệnh viện.",
+  "requestFramePermissions": []
+}
